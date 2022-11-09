@@ -1,0 +1,22 @@
+{
+  "name": "node_js_package_manager_practice",
+  "version": "1.0.0",
+  "description": "A project to learn about package management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamLenter/node.js_package_manager_practice.git"
+  },
+  "author": "Adam Lenter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamLenter/node.js_package_manager_practice/issues"
+  },
+  "homepage": "https://github.com/AdamLenter/node.js_package_manager_practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
